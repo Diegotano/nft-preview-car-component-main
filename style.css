@@ -1,0 +1,155 @@
+.rectangulo{
+    width: 17%;
+    height: 55%;
+    background-color: hsl(216, 50%, 16%);
+    border-radius: 5%;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.text{
+    justify-content: left;
+    text-align: left;
+    margin-left: 7%;
+    margin-top: 7%;
+}
+
+.eneefete{   
+    height: 89%;
+    width: 89%;
+    border-radius: 5%;
+    position: relative;
+    margin-top: 5%;
+    margin-left: 5.5%;
+    margin-right: 5.5%;
+}
+
+.ete{
+    display: flex;
+    position: relative;
+    margin-top: 8%;
+    margin-left: 8%;
+    left: 3%;
+}
+
+.ethereum{
+    position: fixed;
+    width: 3%;
+    height: 3%;
+    left: 8%;
+    top: 78.8%;
+}
+
+.ethe{
+    font-family: Outfit;
+    color: hsl(178, 100%, 50%);
+    display: flex;
+    position: relative;
+    font-weight: 600;
+    left: 2%;
+}
+
+.otrali{
+    position: relative;
+    display: flex;
+    margin-top: 8%;
+    margin-left: 60%;
+    top: -8.6%;
+    left: 6%;
+}
+
+.reloj{
+    display: flex;
+    position: fixed;
+    width: 5%;
+    height: 3%;
+    left: -3%;
+    top: 78.6%;
+    left: 60%;
+}
+
+.linea{
+    height: 0.1%;
+    width: 85%;
+    background-color: hsl(215, 32%, 27%);
+    display: flex;
+    position: relative;
+    left: 7.5%;
+    top: -4%;
+    border-radius: 15%;
+}
+
+.tres{
+    position: relative;
+    top: -0.01em;
+}
+
+.foto{
+    position: relative;
+    display: flex;
+    margin-left: 1.5em;
+    top: -0.5em;
+    left: 1px;
+    height: 2em;
+    border: 2px solid white;
+    border-radius: 50%;
+}
+
+.ultimaparte{
+    display: flex;
+    justify-content: left;
+}
+
+.creation{
+    font-size: 15px;
+    position: relative;
+    left: 1em;
+    top: -0.2em;
+}
+
+.name{
+    font-size: 15px;
+    position: relative;
+    left: 1.2em;
+    top: -0.2em;
+}
+
+.name:hover{
+    color: hsl(178, 100%, 50%);
+}
+
+body{
+    background-color: hsl(217, 54%, 11%);
+    width: 100%;
+}
+
+h1{
+    font-family: Outfit;
+    font-weight: 400;
+    color: hsl(0, 0%, 100%);
+    font-size: 125%;
+}
+
+h1:hover{
+    color: hsl(178, 100%, 50%);
+}
+
+p1{
+    display: flex;
+    font-family: Outfit;
+    font-weight: 300;
+    color: hsl(215, 51%, 70%);
+    font-size: 105%;
+    margin-top: 1%;
+}
+
+p2{
+    font-family: Outfit;
+    font-weight: 400;
+    color: hsl(215, 51%, 70%);
+}
